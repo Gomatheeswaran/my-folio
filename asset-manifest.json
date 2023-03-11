@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/my_folio/static/css/main.3f9f75bb.css",
-    "main.js": "/my_folio/static/js/main.b165d9c6.js",
-    "static/js/787.1ed0c42c.chunk.js": "/my_folio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/encoretennis.png": "/my_folio/static/media/encoretennis.194d247a155b63a2d78b.png",
-    "static/media/eso-website.png": "/my_folio/static/media/eso-website.b933361f658070f00c03.png",
-    "static/media/web-hosting.png": "/my_folio/static/media/web-hosting.ff016d4d599fff9c406e.png",
-    "static/media/gomatheeswaran.jpg": "/my_folio/static/media/gomatheeswaran.bd7df5acc602ee76012c.jpg",
-    "static/media/python.png": "/my_folio/static/media/python.411a14586dd042d01233.png",
-    "static/media/hero.svg": "/my_folio/static/media/hero.45478cbae2a2be622a491412c3c2f06e.svg",
-    "static/media/sql.png": "/my_folio/static/media/sql.9abb470bd3a3e2290e39.png",
-    "static/media/react.png": "/my_folio/static/media/react.8b3895940c08b9454892.png",
-    "static/media/bt.png": "/my_folio/static/media/bt.c8fedbc975e80b097d68.png",
-    "static/media/node.png": "/my_folio/static/media/node.7c2c17abcdae04b47634.png",
-    "static/media/java.png": "/my_folio/static/media/java.f5dd86c3ef6ef3f85acf.png",
-    "static/media/js.png": "/my_folio/static/media/js.cba90db29e3a76a4d72c.png",
-    "index.html": "/my_folio/index.html",
-    "main.3f9f75bb.css.map": "/my_folio/static/css/main.3f9f75bb.css.map",
-    "main.b165d9c6.js.map": "/my_folio/static/js/main.b165d9c6.js.map",
-    "787.1ed0c42c.chunk.js.map": "/my_folio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/my-folio/static/css/main.3f9f75bb.css",
+    "main.js": "/my-folio/static/js/main.0d0e28b7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-folio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/encoretennis.png": "/my-folio/static/media/encoretennis.194d247a155b63a2d78b.png",
+    "static/media/eso-website.png": "/my-folio/static/media/eso-website.b933361f658070f00c03.png",
+    "static/media/web-hosting.png": "/my-folio/static/media/web-hosting.ff016d4d599fff9c406e.png",
+    "static/media/gomatheeswaran.jpg": "/my-folio/static/media/gomatheeswaran.bd7df5acc602ee76012c.jpg",
+    "static/media/python.png": "/my-folio/static/media/python.411a14586dd042d01233.png",
+    "static/media/hero.svg": "/my-folio/static/media/hero.45478cbae2a2be622a491412c3c2f06e.svg",
+    "static/media/sql.png": "/my-folio/static/media/sql.9abb470bd3a3e2290e39.png",
+    "static/media/react.png": "/my-folio/static/media/react.8b3895940c08b9454892.png",
+    "static/media/bt.png": "/my-folio/static/media/bt.c8fedbc975e80b097d68.png",
+    "static/media/node.png": "/my-folio/static/media/node.7c2c17abcdae04b47634.png",
+    "static/media/java.png": "/my-folio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/js.png": "/my-folio/static/media/js.cba90db29e3a76a4d72c.png",
+    "index.html": "/my-folio/index.html",
+    "main.3f9f75bb.css.map": "/my-folio/static/css/main.3f9f75bb.css.map",
+    "main.0d0e28b7.js.map": "/my-folio/static/js/main.0d0e28b7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-folio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f9f75bb.css",
-    "static/js/main.b165d9c6.js"
+    "static/js/main.0d0e28b7.js"
   ]
 }
